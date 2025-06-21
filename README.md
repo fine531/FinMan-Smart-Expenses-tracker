@@ -85,16 +85,18 @@ FinMan is a modern, full-stack expense tracking and budgeting platform that help
 ## 📷 Screenshots
 > Add screenshots here of:
 > - Dashboard UI
+> - (![image](https://github.com/user-attachments/assets/8cb44f3e-33c3-4706-9f60-21e0e57f97f3)![image](https://github.com/user-attachments/assets/7036aab7-9e26-4eb6-8ac1-f609bc6c5513)
 > - Add Transaction Form
+> - ![image](https://github.com/user-attachments/assets/4e0aa894-5de6-44b1-855c-c9062b598569)
 > - Receipt Scanner
-> - Reports Page
+> - ![image](https://github.com/user-attachments/assets/9b87c1e3-8d69-4b78-b6e6-eba6c322dd37)
 
 ---
 
 ## 🛠️ Installation (Local Development)
 
 ```bash
-git clone https://github.com/your-username/finman.git
+git clone https://github.com/fine531/FinMan-Smart-Expenses-tracker.git
 cd finman
 pnpm install
 pnpm dev
@@ -107,19 +109,15 @@ pnpm dev
 
 ---
 
-## 🧪 Testing
-> To be added in future versions
-
----
 
 ## 📄 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Dharmavarapu Phanindra]
 
 ---
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
+- [LinkedIn](www.linkedin.com/in/phanindra-dharmavarapu-183093250)
+- [GitHub]((https://github.com/fine531/))
 
 ---
 
