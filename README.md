@@ -45,6 +45,13 @@ FinMan is a modern, full-stack expense tracking and budgeting platform that help
 
 ---
 
+## 👥 Contributors
+
+- [Phanindra][Team Lead]
+- [MadhuKumar vadla]
+- [Navya Sri]
+
+
 ## 🧠 System Architecture Overview
 
 ```
